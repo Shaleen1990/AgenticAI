@@ -1,0 +1,15 @@
+pydantic
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
+defusedxml 
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain_huggingface
+langchain-pinecone

@@ -1,0 +1,86 @@
+
+Document Title: Internal HR & Company Policies – Nexora Technologies Pvt. Ltd.
+
+Document ID: HRPOL-INT-2025-003
+Confidentiality Level: Internal Use Only
+Last Updated: May 15, 2025
+
+1. Company Overview
+Nexora Technologies is a global data engineering and AI solutions provider headquartered in Bangalore, India. The company has over 1,200 employees and operates in 6 countries. It primarily serves clients in the telecom, BFSI, and healthcare sectors.
+
+2. HR Policies
+
+2.1 Working Hours
+- Standard working hours: 9:30 AM to 6:30 PM IST
+- Core hours (mandatory availability): 10:00 AM to 4:00 PM IST
+- Employees may opt for a hybrid model (up to 3 days WFH per week) upon manager approval.
+
+2.2 Leave Policy
+- Annual Leave: 20 days
+- Sick Leave: 12 days
+- Maternity Leave: 26 weeks
+- Paternity Leave: 2 weeks
+- Optional Holidays: 3 days (selected from the optional holiday list)
+
+2.3 Probation & Confirmation
+- Probation Period: 6 months from DOJ
+- Performance review will be conducted in the 5th month
+- Confirmation letter issued upon satisfactory review
+
+2.4 Exit Policy
+- Notice Period: 60 days
+- Early exit requests must be approved by the Department Head and HRBP
+- Full and Final Settlement to be processed within 45 days of exit
+
+3. Internal Security & Compliance
+
+3.1 VPN & Access Control
+- All employees must connect through the company VPN while accessing internal servers
+- Role-based access is managed using the MechID system
+- Sharing credentials is strictly prohibited
+
+3.2 Data Handling
+- All client data must be stored on the secure S3 buckets (project-level)
+- No data should be downloaded or transferred to personal devices
+- Emailing PII data is restricted and requires DLP (Data Loss Prevention) approval
+
+4. Performance Management
+
+4.1 Appraisal Cycle
+- Appraisal reviews occur annually in March
+- Self-assessment → Manager Assessment → Calibration → HR Review
+- Rating scale: 1 (Below Expectations) to 5 (Exceptional)
+
+4.2 Promotion Guidelines
+- Minimum 18 months in current role
+- Must have a rating of 4 or higher in last 2 appraisal cycles
+- Promotions are finalized during the mid-year People Committee meeting
+
+5. L&D and Upskilling
+
+5.1 Mandatory Training
+- Cybersecurity Essentials (quarterly)
+- POSH (Prevention of Sexual Harassment) – annually
+- Data Ethics & AI Responsibility – annually
+
+5.2 Learning Platforms
+- Employees have access to Coursera for Enterprise
+- Internal LMS hosts curated technical courses on Snowflake, Azure, and Databricks
+
+6. Internal Tools & Platforms
+
+Platform            | Purpose
+---------------------|------------------------------------
+PeoplePortal        | Leave, Payroll, Reimbursements
+TimeSync            | Timesheet & Project Allocation
+Kanvas              | Internal document management
+MechID Portal       | Access provisioning & roles
+PulseCheck          | Employee satisfaction survey tool
+
+7. Contact Points
+
+- HRBP Team: hrbp@nexoratech.com
+- IT Helpdesk: it.support@nexoratech.com
+- Facilities: facilities@nexoratech.com
+
+Disclaimer: This document is for internal use only and should not be shared externally. For any clarification, please contact the HR Operations Team.
